@@ -1,5 +1,5 @@
 # GE-Stock-Price-Prediction
-This repository contains a robust and versatile model to perform multivariate time series forecasting to analyze and predict stock market data.
+This repository contains a robust and versatile model to perform multivariate time series forecasting to analyze and predict stock market data. The data has been fetched from [Kaggke](https://www.kaggle.com/datasets/aniketkolte04/ge-stock-price)
 
 Analyzing the correlation and time series of stock price data, a new deep learning method (CNNLSTM) is proposed to predict the stock price. In this method, CNN is used to extract the time feature of data, and LSTM is used for data forecasting. It can make full use of the time sequence of stock price data to obtain more reliable forecasting.
 
